@@ -7,6 +7,10 @@ package pl2_project;
 
 import java.util.Date;
 
+/**
+ *
+ * @author amr atallah
+ */
 public class exam {
 
     private String questions;
