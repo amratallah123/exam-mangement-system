@@ -5,6 +5,10 @@
  */
 package pl2_project;
 
+/**
+ *
+ * @author amr atallah
+ */
 public class user {
 
     private int id;
